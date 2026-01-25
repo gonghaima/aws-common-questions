@@ -6,6 +6,6 @@ Refer to /Users/stevengong/study/aws-common-questions/README.md, and /Users/stev
 
 
 
-can you update /Users/stevengong/study/aws-common-questions/Compute/AWS_Lambda/Integration_REST_GraphQL.md,
+can you update /Users/stevengong/study/aws-common-questions/Compute/AWS_Lambda/Error_Handle_Retry.md,
 
-with answer of "Explain how you would integrate a Lambda‑based Node.js backend with API Gateway to build a REST or GraphQL API." It is for aws interview question for full stack developer
+with answer of "How do you design error handling and retries in Lambda when consuming from SQS or Kinesis (dead‑letter queues, partial failures, visibility timeout)?" It is for aws interview question for full stack developer
