@@ -6,6 +6,6 @@ Refer to /Users/stevengong/study/aws-common-questions/README.md, and /Users/stev
 
 
 
-can you update /Users/stevengong/study/aws-common-questions/Compute/AWS_Lambda/Error_Handle_Retry.md,
+can you update /Users/stevengong/study/aws-common-questions/Compute/AWS_Lambda/Cold_Start.md,
 
-with answer of "How do you design error handling and retries in Lambda when consuming from SQS or Kinesis (dead‑letter queues, partial failures, visibility timeout)?" It is for aws interview question for full stack developer
+with answer of "What is a cold start in Lambda, and what factors impact cold start time for Node.js functions?" It is for aws interview question for full stack developer
