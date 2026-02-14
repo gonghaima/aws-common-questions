@@ -6,6 +6,6 @@ Refer to /Users/stevengong/study/aws-common-questions/README.md, and /Users/stev
 
 
 
-can you update /Users/stevengong/study/aws-common-questions/Compute/AWS_Lambda/Cold_Start.md,
+can you update /Users/stevengong/study/aws-common-questions/Compute/AWS_Lambda/Monitor_Troubleshoot.md,
 
-with answer of "What is a cold start in Lambda, and what factors impact cold start time for Node.js functions?" It is for aws interview question for full stack developer
+with answer of "How would you monitor and troubleshoot a Lambda microservice using CloudWatch Logs, metrics, and X‑Ray tracing?" It is for aws interview question for full stack developer
