@@ -6,6 +6,6 @@ Refer to /Users/stevengong/study/aws-common-questions/README.md, and /Users/stev
 
 
 
-can you update /Users/stevengong/study/aws-common-questions/Compute/AWS_Lambda/Monitor_Troubleshoot.md,
+can you update /Users/stevengong/study/aws-common-questions/Compute/AWS_Lambda/Event_Driven.md,
 
-with answer of "How would you monitor and troubleshoot a Lambda microservice using CloudWatch Logs, metrics, and X‑Ray tracing?" It is for aws interview question for full stack developer
+with answer of "Describe an event‑driven microservice built with S3, SQS, and Lambda that processes uploaded files end‑to‑end" It is for aws interview question for full stack developer
