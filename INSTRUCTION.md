@@ -6,6 +6,7 @@ Refer to /Users/stevengong/study/aws-common-questions/README.md, and /Users/stev
 
 
 
-can you update /Users/stevengong/study/aws-common-questions/Compute/AWS_Lambda/Event_Driven.md,
+can you update /Users/stevengong/study/aws-common-questions/Compute/AWS_Lambda/ Lambda_VS_containers-ECS-EKS.md,
 
-with answer of "Describe an event‑driven microservice built with S3, SQS, and Lambda that processes uploaded files end‑to‑end" It is for aws interview question for full stack developer
+with answer of "When would you choose Lambda over containers (ECS/EKS) for a backend service, and when is Lambda a poor fit?" 
+It is for aws interview question for full stack developer
