@@ -6,7 +6,7 @@ Refer to /Users/stevengong/study/aws-common-questions/README.md, and /Users/stev
 
 
 
-can you update /Users/stevengong/study/aws-common-questions/Compute/AWS_Lambda/ Lambda_VS_containers-ECS-EKS.md,
+can you update /Users/stevengong/study/aws-common-questions/Compute/AWS_Lambda/Releases.md,
 
-with answer of "When would you choose Lambda over containers (ECS/EKS) for a backend service, and when is Lambda a poor fit?" 
+with answer of "How would you implement function versioning and aliases to safely roll out new Lambda releases (for example, blue/green or canary)?" 
 It is for aws interview question for full stack developer
