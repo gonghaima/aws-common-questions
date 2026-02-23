@@ -6,7 +6,7 @@ Refer to /Users/stevengong/study/aws-common-questions/README.md, and /Users/stev
 
 
 
-can you update /Users/stevengong/study/aws-common-questions/Compute/AWS_Lambda/Releases.md,
+can you update /Users/stevengong/study/aws-common-questions/Compute/AWS_Lambda/Layers.md,
 
-with answer of "How would you implement function versioning and aliases to safely roll out new Lambda releases (for example, blue/green or canary)?" 
+with answer of "What are Lambda Layers, and how can they help you share common Node.js code (utilities, SDK configuration) across multiple functions?" 
 It is for aws interview question for full stack developer
