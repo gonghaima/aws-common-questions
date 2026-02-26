@@ -6,7 +6,7 @@ Refer to /Users/stevengong/study/aws-common-questions/README.md, and /Users/stev
 
 
 
-can you update /Users/stevengong/study/aws-common-questions/Compute/AWS_Lambda/Layers.md,
+can you update /Users/stevengong/study/aws-common-questions/Compute/AWS_Lambda/security.md,
 
-with answer of "What are Lambda Layers, and how can they help you share common Node.js code (utilities, SDK configuration) across multiple functions?" 
+with answer of "How do you apply security best practices for Lambda in a multi‑service architecture (least‑privilege IAM, VPC access, secrets management)?" 
 It is for aws interview question for full stack developer
