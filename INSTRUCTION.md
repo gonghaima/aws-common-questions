@@ -6,7 +6,7 @@ Refer to /Users/stevengong/study/aws-common-questions/README.md, and /Users/stev
 
 
 
-can you update /Users/stevengong/study/aws-common-questions/Compute/AWS_Lambda/security.md,
+can you update /Users/stevengong/study/aws-common-questions/Compute/Amazon_ECS_EKS/Explain_Amazon_ECS.md,
 
-with answer of "How do you apply security best practices for Lambda in a multi‑service architecture (least‑privilege IAM, VPC access, secrets management)?" 
+with answer of "Explain what Amazon ECS is and how it orchestrates Docker containers for microservices." 
 It is for aws interview question for full stack developer
