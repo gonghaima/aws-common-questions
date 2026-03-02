@@ -6,7 +6,7 @@ Refer to /Users/stevengong/study/aws-common-questions/README.md, and /Users/stev
 
 
 
-can you update /Users/stevengong/study/aws-common-questions/Compute/Amazon_ECS_EKS/Explain_Amazon_ECS.md,
+can you update /Users/stevengong/study/aws-common-questions/Compute/Amazon_ECS_EKS/EC2_VS_Fargate.md,
 
-with answer of "Explain what Amazon ECS is and how it orchestrates Docker containers for microservices." 
+with answer of "Compare running ECS tasks on EC2 vs using Fargate; when would you choose each option?" 
 It is for aws interview question for full stack developer
