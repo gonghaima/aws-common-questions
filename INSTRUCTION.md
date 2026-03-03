@@ -6,7 +6,7 @@ Refer to /Users/stevengong/study/aws-common-questions/README.md, and /Users/stev
 
 
 
-can you update /Users/stevengong/study/aws-common-questions/Compute/Amazon_ECS_EKS/EC2_VS_Fargate.md,
+can you update /Users/stevengong/study/aws-common-questions/Compute/Amazon_ECS_EKS/ECS_Building_Blocks.md,
 
-with answer of "Compare running ECS tasks on EC2 vs using Fargate; when would you choose each option?" 
+with answer of "What are the main building blocks in ECS (cluster, task definition, service, task, container) and how do they relate?" 
 It is for aws interview question for full stack developer
