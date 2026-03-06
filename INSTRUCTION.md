@@ -6,7 +6,7 @@ Refer to /Users/stevengong/study/aws-common-questions/README.md, and /Users/stev
 
 
 
-can you update /Users/stevengong/study/aws-common-questions/Compute/Amazon_ECS_EKS/ECS_Building_Blocks.md,
+can you update /Users/stevengong/study/aws-common-questions/Compute/Amazon_ECS_EKS/ALB_Service_Discovery.md,
 
-with answer of "What are the main building blocks in ECS (cluster, task definition, service, task, container) and how do they relate?" 
+with answer of "How do you configure service discovery and load balancing for ECS services using an Application Load Balancer (ALB)?" 
 It is for aws interview question for full stack developer
